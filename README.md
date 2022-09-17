@@ -1,5 +1,5 @@
 
-## Página para gestionar el alquiler de pisos de estudiantes
+## Página para gestionar el alquiler de pisos de estudiantes.
 
 ### Problema a resolver:
   Que un estudiante encuentre un piso para alojarse de manera fácil y con compañeros de piso afines a él.
