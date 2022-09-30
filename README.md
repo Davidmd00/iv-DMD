@@ -10,5 +10,6 @@
 ### Lógica de negocio:
   La aplicación simulará el partido con los equipos al azar, y con una heurística se irán generando equipos y cambiando los jugadores hasta que los equipos se encuentren lo más equilibrados posible, encontrando la combinación óptima.
   
-  Clave: (Configuracion/clavepublica.png)
-  Configuración: (Configuracion/config.png)
+  
+* [Clave: ](Configuracion/clavepublica.png)
+* [Configuración: ](Configuracion/config.png)
