@@ -1,11 +1,11 @@
-
-
+App para gestionar las peñas deportivas
 
 ### Problema a resolver:
-  Que un estudiante encuentre un piso para alojarse de manera fácil y con compañeros de piso afines a él.
+  Hoy en día es muy común pertenecer a una peña deportiva de fútbol amistosa con tus amigos. El mayor motivo de disputa suele ser la formación de equipos, ya que no siempre el reparto de equipos es equitativo y los partidos acaban estando muy desigualados, empeorando la experiencia.
+
 
 ### Como solucionarlo:
-  Se realizará una encuesta al usuario y se generará un perfil. Después se analizará dicho perfil, reuniendo toda la información recopilada y se le mostrarán con mayor prioridad pisos con compañeros con personalidad , estudios y gustos parecidos a los suyos.
+  Con esta app se creará un perfil de cada jugador de la peña, apuntando después de cada partido cuantos goles ha metido, cuantas paradas ha realizado, si ha ganado o ha perdido, etc. En el siguiente partido, la app emparejará los equipos de forma que estén lo más igualados posible teniendo en cuenta el historial de cada jugador.
 
 ### Lógica de negocio:
-  Los arrendadores, que pagarían una cuota mensual por tener pisos registrados en la página web, ofrecen habitaciones filtrando según distintos criterios, mejorando así las posibilidades de conseguir una buena relación entre sus arrendatarios según las caracteristicas del piso y los compañeros.
+  La aplicación simulará el partido con los equipos al azar, y con una heurística se irán cambiando los jugadores hasta que los equipos se encuentren lo más equilibrados posible, encontrando la combinación óptima.
