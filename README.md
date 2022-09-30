@@ -1,4 +1,4 @@
-App para gestionar las peñas deportivas
+#App para gestionar las peñas deportivas
 
 ### Problema a resolver:
   Hoy en día es muy común pertenecer a una peña deportiva de fútbol amistosa con tus amigos. El mayor motivo de disputa suele ser la formación de equipos, ya que no siempre el reparto de equipos es equitativo y los partidos acaban estando muy desigualados, empeorando la experiencia.
