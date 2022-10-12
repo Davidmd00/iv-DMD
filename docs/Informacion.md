@@ -1,5 +1,5 @@
-### Tipos de citas (duración base)(tiempo extra de preparación)
-# El tiempo base de preparación para cada cliente será de 5 minutos para la desinfección de las utensilios. 
+# Tipos de citas (duración base)(tiempo extra de preparación)
+### El tiempo base de preparación para cada cliente será de 5 minutos para la desinfección de las utensilios. 
 - Manicura (15')
 - Pedicura (15')
 - Uñas de gel   
@@ -21,8 +21,8 @@
                 | Axilas (')
                 | Ingles (')
             
-### Trabajadores 
+# Trabajadores 
 
-### Inventario
+# Inventario
 
              
