@@ -14,13 +14,13 @@ Se creará un algoritmo que reconocerá el tipo de cita y calculará el tiempo a
 Para el inventario se llevará un contador de cada producto del centro que irá cambiando dependiendo de sus usos en las citas a lo largo de la semana, teniendo en cuenta los que se usarán en las citas reservadas para no quedarse sin stock.
   
   
-### Documentación
+# Documentación
 
 * [Historias de usuario](https://github.com/Davidmd00/iv-DMD/blob/objetivo-1/docs/historias_usuario.md)
 * [Milestones](https://github.com/Davidmd00/iv-DMD/blob/objetivo-1/docs/milestones.md)
 
   
   
-  ### Configuración
+  # Configuración
 * [Clave](Configuracion/clavepublica.png)
 * [Configuración](Configuracion/config.png)
