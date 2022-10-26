@@ -1,5 +1,5 @@
 ## * [[M0]](https://github.com/Davidmd00/iv-DMD/milestone/1) Creación de la estructura de datos y la base de datos
-Implementar las clases que usará la aplicación, el calendario digital y la base de datos con toda la información relacionada con el centro (tipos de citas, duración y productos a usar)
+Creación de un software con el que puedas pedir una cita en un calendario digital.
 
 ## * [[M1]](https://github.com/Davidmd00/iv-DMD/milestone/2) Desarrollo del algoritmo para dar citas
 Programar el algoritmo para la asignación óptima de las citas en la agenda digital, que dependerá de factores como el tipo de cita, duración, productos y citas ya fijadas ese día.
