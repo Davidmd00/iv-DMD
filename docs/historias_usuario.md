@@ -1,13 +1,13 @@
 ### Historias de Usuario
 
-* [[HU01] Un cliente quiere pedir una cita](https://github.com/Davidmd00/iv-DMD/issues/4 )
-Una persona va a pedir cita para acudir al centro de estética. Entra en el calendario digital del centro y selecciona el día que le viene bien y el tipo de cita que desea, y se le muestra si el día está disponible y las horas libres. Al confirmar la cita, introduce su nombre y email para contactar con ella por si ocurriera algún inconveniente.
+* [[HU01] Como dueño del centro de estética, quiero una asignación de citas óptima](https://github.com/Davidmd00/iv-DMD/issues/4 )
+Las citas se piden a través de la página web, donde se selecciona el día, el turno (mañana o tarde) y el tipo de cita a pedir. Dependiendo del tipo de cita y la agenda de dicho día, el algoritmo le asignará la hora más óptima en tiempo para el centro.
 
 
-* [[HU02] Un cliente llega al centro para una manicura, pero no tenia cita previa](https://github.com/Davidmd00/iv-DMD/issues/5) 
-El cliente se presenta en el centro y dice que tipo de cita desea, y el empleado comprueba él mismo en el horario digital si todavía se puede pedir cita para ese día (si se disponen de suficientes horas libres y si hay inventario suficiente).
-
-* [[HU03]Se avería una máquina y queda inoperativa](https://github.com/Davidmd00/iv-DMD/issues/6) 
-Se avisará al cliente por email explicándole lo ocurrido y cancelando su cita, y se le ofrecerá una nueva cita para el día en el cuál la máquina vuelva a estar operativa. Se reajustará el horario del centro para ese día, eliminando las citas que usen dicha máquina y quedando libres para posibles nuevas citas.
+* [[HU02] Como dueño del centro de estética, quiero que la agenda de citas sea flexible y se ajuste a los posibles 	cambios](https://github.com/Davidmd00/iv-DMD/issues/5) 
+Las acciones de los clientes son impredecibles, por lo que la agenda debe ser flexible y dinámica para
+cambiar y ajustarse a personas que vengan sin cita (buscando huecos libres), a personas que no acudan a su cita prevista  (borrando estas citas), o a la posible avería de máquinas (reasignando citas). Gracias a esto se evitará la existencia de horas vacías entre citas.
 
 
+* [[HU03] Como dueño del centro de estética, quiero llevar un estricto control sobre los recursos usados y disponibles para evitar costes innecesarios](https://github.com/Davidmd00/iv-DMD/issues/6) 
+Llevar la cuenta de los recursos en stock disponibles y los que se usarán en las próximas citas permitirá saber si es necesario comprar o no distintos productos y poder predecir mejor el stock futuro.
