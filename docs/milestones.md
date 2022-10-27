@@ -1,4 +1,4 @@
-## * [[M0]](https://github.com/Davidmd00/iv-DMD/milestone/1) Creación de la estructura de datos y la base de datos
+## * [[M0]](https://github.com/Davidmd00/iv-DMD/milestone/1) Creación de la estructura de datos, la base de datos y el algoritmo
 Creación de un software con el que puedas pedir una cita en un calendario digital y un algoritmo que asigne dichas citas de una forma óptima en tiempo.
 
 ## * [[M1]](https://github.com/Davidmd00/iv-DMD/milestone/3) Listado de inventario
