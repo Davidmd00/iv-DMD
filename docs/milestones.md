@@ -1,4 +1,4 @@
-## * [[M0]](https://github.com/Davidmd00/iv-DMD/milestone/1)  Estructura de datos para mostrar la información relativa a las citas y a la organización de la agenda digital
+## * [[M0]](https://github.com/Davidmd00/iv-DMD/milestone/1) Modulo que defina la estructura de datos para pedir citas y asignarlas al calendario digital
 Creación de la estructura de datos para representar toda la información acerca de los distintos tipos de citas, y que nos permita hacer una reserva de una cita insertandola en la agenda.
 
 ## * [[M1]](https://github.com/Davidmd00/iv-DMD/milestone/4)  Implementación de la lógica de negocio 
